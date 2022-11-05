@@ -24,7 +24,7 @@ I don't have a programmer's job right now, but I'd love to. --> <i>Contact with 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a> 
  <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="firebase" width="40" height="40"/></a> 
- <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://styled-components.com/atom.png" alt="firebase" width="40" height="40"/></a> 
+ <a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://styled-components.com/atom.png" alt="firebase" width="40" height="40"/></a> 
 </p>
 
 <div align="left">
