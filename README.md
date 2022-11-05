@@ -7,7 +7,7 @@ I don't have a programmer's job right now, but I'd love to. --> <i>Contact with 
 
 <h3>Connect with me 🫡:</h3>
 <p align="left">
-<a href="mailto:danielpakoca@gmail.com" target="blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
+<a href="mailto:danielpakoca@gmail.com" target="blank" rel="noreferrer"><kbd><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="gmail" height="30" width="40" /></kbd></a>
 <a href="https://www.facebook.com/danny.pakoca/" target="blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" alt="facebook" height="30" width="40"/></a>
 <a href="https://www.instagram.com/dannynafide/" target="blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
