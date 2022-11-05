@@ -25,8 +25,7 @@ I don't have a programmer's job right now, but I'd love to. --> <i>Contact with 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a> 
  <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="firebase" width="40" height="40"/></a> 
 </p>
- 
-<div align="center">
+<div align="left">
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannynafide&layout=compact" />
 </div>
 
