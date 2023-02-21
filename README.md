@@ -32,8 +32,8 @@ I don't have a programmer's job right now, but I'd love to. --> <i>Contact with 
 </div>
 
 </br>
-<h3 align="left">I’m currently learning 🌱:</h3> I want to find a job as a frontend developer.
-
+<!-- <h3 align="left">I’m currently learning 🌱:</h3> I want to find a job as a frontend developer.
+ -->
 
 <!-- </br>
 <h3 align="left">My stats ✨:</h3>
