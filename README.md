@@ -1,9 +1,10 @@
 <h1 align="center">Yes! This is a happy moment</br>Nice to see you new visitor 🫶.</h1>
 
 <h3>About me 🫣:</h3>
-<p>I don't have fans right now, but I'd love to. --> <i>Follow me</i></br>
-I don't have money right now, but I'd love to. --> <i>💸</i></br>
-I don't have a programmer's job right now, but I'd love to. --> <i>Contact with me</i></p>
+<!-- <p>I don't have fans right now, but I'd love to. -> <i>Follow me</i></br>
+I don't have money right now, but I'd love to. -> <i>💸</i></br>
+I don't have a programmer's job right now, but I'd love to. -> <i>Contact with me</i></p> -->
+<p>I love creating amazing things.</p>
 
 <h3>Connect with me 🫡:</h3>
 <p align="left">
