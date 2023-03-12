@@ -1,10 +1,7 @@
-<h1 align="center">Yes! This is a happy moment</br>Nice to see you new visitor 🫶.</h1>
+<h1 align="center">Nice to see you new visitor 🫶.</h1>
 
 <h3>About me 🫣:</h3>
-<!-- <p>I don't have fans right now, but I'd love to. -> <i>Follow me</i></br>
-I don't have money right now, but I'd love to. -> <i>💸</i></br>
-I don't have a programmer's job right now, but I'd love to. -> <i>Contact with me</i></p> -->
-<p>I love creating amazing things.</p>
+<p>As a junior frontend developer specializing in React, I already have extensive experience in creating dynamic and responsive web applications. I deeply understand the basics of React principles and I am fluent in JavaScript and its latest ES6+ features. I am passionate about creating efficient and reusable code, which transforms into delivering high quality projects.</p>
 
 <h3>Connect with me 🫡:</h3>
 <p align="left">
