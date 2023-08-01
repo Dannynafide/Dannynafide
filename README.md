@@ -1,7 +1,7 @@
 <h1 align="center">Nice to see you new visitor 🫶.</h1>
 
 <h3>About me 🫣:</h3>
-<p>As a junior frontend developer specializing in React, I already have extensive experience in creating dynamic and responsive web applications. I deeply understand the basics of React principles and I am fluent in JavaScript and its latest ES6+ features. I am passionate about creating efficient and reusable code, which transforms into delivering high quality projects.</p>
+<p>I'm passionate about new technologies, mainly IT. I always look ahead and try to learn new things. Currently I know React and I'm mastering general JS programming skills. I'm currently looking for my first job in the IT industry, where I will be able to work with people with similar interests and increase my experience.</p>
 
 
 <h3>Connect with me 🫡:</h3>
