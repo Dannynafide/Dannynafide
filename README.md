@@ -1,4 +1,4 @@
-<h1 align="center">Nice to see you new visitor 🫶.</h1>
+<h1 align="center">Hi! Nice to see you 🫶.</h1>
 
 <h3>About me 🫣:</h3>
 <p>I'm passionate about new technologies, mainly IT. I always look ahead and try to learn new things. Currently I know React and I'm mastering general JS programming skills. I'm currently looking for my first job in the IT industry, where I will be able to work with people with similar interests and increase my experience.</p>
