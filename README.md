@@ -37,8 +37,11 @@
 
 </br>
 <div align="left">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannynafide&layout=compact" />
+ <img class="img" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dannynafide&layout=compact" />
 </div>
+
+</br>
+<a href="https://wakatime.com/@d0d89ddf-5153-417d-ae33-73cbad0c23f0"><img src="https://wakatime.com/badge/user/d0d89ddf-5153-417d-ae33-73cbad0c23f0.svg" alt="Total time coded since Feb 29 2020" /></a>
 
 </br>
 <!-- <h3 align="left">I’m currently learning 🌱:</h3> I want to find a job as a frontend developer.
