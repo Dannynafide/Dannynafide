@@ -28,10 +28,6 @@ I enjoy working across the stack — connecting elegant UI design with reliable 
   <a href="https://www.linkedin.com/in/danielpakoca/" target="_blank" rel="noreferrer">
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/danielpakoca" target="_blank" rel="noreferrer">
-    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" height="40" width="40"/>
-  </a>
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
