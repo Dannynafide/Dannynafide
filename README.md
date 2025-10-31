@@ -1,14 +1,38 @@
-<h1 align="center">Hi! Nice to see you 🫶</h1>
+<h1 align="center">Hi! Nice to see you 👋</h1>
 
-<h3>About me 🫣:</h3>
-<p>I'm passionate about new technologies, mainly IT. I always look ahead and try to learn new things. Currently I know React and I'm mastering general JS programming skills. I'm currently looking for my first job in the IT industry, where I will be able to work with people with similar interests and increase my experience.</p>
+<h3>About me 🧑‍💻</h3>
 
+<p>
+I'm a software developer passionate about building fullstack applications with modern technologies.  
+My main stack includes <b>React</b> (with <b>Next.js</b>), <b>Node.js</b> for API development, and <b>Django</b> for backend services.
+</p>
 
-<h3>Connect with me 🫡:</h3>
+<p>
+I focus on <b>clean architecture</b>, <b>maintainable code</b>, and <b>scalable solutions</b>.  
+I enjoy working across the stack — connecting elegant UI design with reliable backend logic.
+</p>
+
+<p>
+🧩 Interested in: <b>CI/CD, Docker, and performance optimization</b>
+</p>
+
+<h3>Connect with me 🫡</h3>
+
+<p>Let's connect and talk about web development, open-source, or potential collaborations 🚀</p>
+
 <p align="left">
-<a href="mailto:danielpakoca@gmail.com" target="blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="gmail" height="30" width="40" /></a> 
- &nbsp;&nbsp;<a href="https://www.linkedin.com/in/danielpakoca/" target="blank" rel="noreferrer"> <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="facebook" height="40" width="40"/> </a>
-<br/></br>
+  <a href="mailto:danielpakoca@gmail.com" target="_blank" rel="noreferrer">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="gmail" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/danielpakoca/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/danielpakoca" target="_blank" rel="noreferrer">
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" height="40" width="40"/>
+  </a>
+</p>
 
 
 <h3 align="left">My Skiilllls 🔥:</h3>
