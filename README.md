@@ -13,12 +13,12 @@ I enjoy working across the stack — connecting elegant UI design with reliable 
 </p>
 
 <p>
-🧩 Interested in: <b>CI/CD, Docker, and performance optimization</b>
+🧩 Interested in: <b>CI/CD, Docker, and performance optimization</b>.
 </p>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <h3>Connect with me 🫡</h3>
 
-<p>Let's connect and talk about web development, open-source, or potential collaborations 🚀</p>
+<p>Let's connect and talk about web development, open-source, or potential collaborations</p>
 
 <p align="left">
   <a href="mailto:danielpakoca@gmail.com" target="_blank" rel="noreferrer">
