@@ -15,7 +15,7 @@ I enjoy working across the stack — connecting elegant UI design with reliable 
 <p>
 🧩 Interested in: <b>CI/CD, Docker, and performance optimization</b>
 </p>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <h3>Connect with me 🫡</h3>
 
 <p>Let's connect and talk about web development, open-source, or potential collaborations 🚀</p>
@@ -34,7 +34,7 @@ I enjoy working across the stack — connecting elegant UI design with reliable 
   </a>
 </p>
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <h3 align="left">My Skiilllls 🔥:</h3>
 <p>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
@@ -57,9 +57,8 @@ I enjoy working across the stack — connecting elegant UI design with reliable 
  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="docker" width="40" height="40"/></a>
  
 </p>
-
-
 </br>
+
 <div align="left">
  <img class="img" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dannynafide&layout=compact" />
 </div>
